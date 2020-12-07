@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>
         <TurnedInNotIcon />
-        Task Vault
+        Task Notes
       </h1>
     </header>
   );
