@@ -1,4 +1,4 @@
-# My Task Vault React App
+# My Task Notes React App
 
 ### This note taking app that  is my twist on an existing project where I wanted to utilize react while importing libraries for the first time. 
 <br>
